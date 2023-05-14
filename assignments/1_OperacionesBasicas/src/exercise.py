@@ -1,6 +1,5 @@
 def main():
     #escribe tu código abajo de esta línea
-
     numero1 = int(input("Dame un número: ")
     numero2 = int(input("Dame un número: ")
                   
